@@ -1,2 +1,7 @@
 # Proyect-DressUPN
 Método de Diseño de arquitectura orientada a servicios (SOA)
+ es el nexo que une las metas de negocio con el sistema de software. Su papel es el de aportar flexibilidad, desde la automatización de las infraestructura y herramientas necesarias consiguiendo, al mismo tiempo, reducir los costes de integración. SOA se ocupa del diseño y desarrollo de sistemas distribuidos y es un potente aliado a la hora de llevar a cabo la gestión de grandes volúmenes de datos, datos en la nube y jerarquías de datos.
+ SOA permite la reutilización de activos existentes para nuevos servicios que se pueden crear a partir de una infraestructura de TI que ya se había diseñado. 
+ SOA o arquitectura orientada a servicios establece un modelo de arquitectura que ayuda a mejorar la eficiencia, efectividad y productividad de una empresa, posicionando los servicios como lo primero que debemos de tener en cuenta cuando queremos presentar una lógica de solución de un problema, o para la consecución de los objetivos estratégicos de la compañía, asociado a la programación orientada a servicios.
+ El Blog Ceupe. (s.f.). ¿Qué es SOA? Recuperado 10 marzo, 2020, de https://www.ceupe.com/blog/que-es-soa.html
+ Redacción PowerData. (2019, 12 febrero). Qué es la arquitectura orientada a servicios SOA. Recuperado 10 marzo, 2020, de https://blog.powerdata.es/el-valor-de-la-gestion-de-datos/bid/394442/qu-es-la-arquitectura-orientada-a-servicios-soa
